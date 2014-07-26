@@ -1,0 +1,7 @@
+Changes
+lib/Text/Boustrophedon.pm
+Makefile.PL
+MANIFEST
+MANIFEST.SKIP
+t/basic.t
+t/input.txt
