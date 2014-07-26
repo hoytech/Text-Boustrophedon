@@ -111,7 +111,7 @@ Text::Boustrophedon - Write like the ox plows
 
 Boustrophedon is a style of writing where whenever you hit the margin and a line break must occur, you don't return to the beginning of the next line, but instead resume writing on the next line in a reverse direction so that the previous line's end is the new line's beginning.
 
-This was done in several ancient writing systems such as ancient greek. If you think about it, it requires less eye movement than our modern systems so maybe they were onto something. :)
+This was done in several ancient writing systems such as pre-hellenistic greek. If you think about it, it requires less eye movement than our modern systems so maybe they were onto something. :)
 
 The different methods currently supported are:
 
