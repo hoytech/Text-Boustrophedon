@@ -133,7 +133,7 @@ B<reverse> -- Reverse direction only
     between us, till one or other shall fall and glut grim Ares with his life's 
                                                                          ."doolb
 
-B<rongorongo> -- Reverse direction, rotate, and down-to-up direction
+B<rongorongo> -- Reverse direction, rotate, and down-to-up direction (FIXME: currently it's just using C<upsidedown>, I need to sit down and build C<rotate180>)
 
                                                                          ."qoolp
     between us, till one or other shall fall and glut grim Ares with his life's 
