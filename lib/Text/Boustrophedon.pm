@@ -145,6 +145,8 @@ B<rongorongo> -- Reverse direction, rotate, and down-to-up direction
 
 NOTE: This module uses unicode characters that approximately look like their rotated or mirror-image equivalents (like L<Text::UpsideDown>) so the output values can contain "wide" characters.
 
+Finally, this module also includes the utility functions C<Text::Boustrophedon::mirror>, C<Text::Boustrophedon::flipped>, and C<Text::Boustrophedon::upsidedown> which you may find useful.
+
 
 =head1 SEE ALSO
 
