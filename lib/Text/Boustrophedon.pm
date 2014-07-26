@@ -113,7 +113,9 @@ Boustrophedon is a style of writing where whenever you hit the margin and a line
 
 This was done in several ancient writing systems such as ancient greek. If you think about it, it requires less eye movement than our modern systems so maybe they were onto something. :)
 
-Here is an example of the B<greek> method:
+B<greek> -- Reverse direction and mirror-image
+
+The different methods currently supported are:
 
     Achilles glared at him and answered, "Fool, prate not to me about covenants.
      ɿɘvɘn nɒɔ ƨdmɒl bnɒ ƨɘvlow ,nɘm bnɒ ƨnoil nɘɘwƚɘd ƨƚnɒnɘvoɔ on ɘd nɒɔ ɘɿɘʜT
@@ -122,13 +124,23 @@ Here is an example of the B<greek> method:
     between us, till one or other shall fall and glut grim Ares with his life's 
                                                                          ."boold
 
-The different methods currently supported are:
-
-B<greek> -- Reverse direction and mirror-image
-
 B<reverse> -- Reverse direction only
 
+    Achilles glared at him and answered, "Fool, prate not to me about covenants.
+     reven nac sbmal dna sevlow ,nem dna snoil neewteb stnanevoc on eb nac erehT
+    be of one mind, but hate each other through and through. Therefore there can
+          stnanevoc yna eb ereht yam ron ,em dna uoy neewteb gnidnatsrednu on eb
+    between us, till one or other shall fall and glut grim Ares with his life's 
+                                                                         ."doolb
+
 B<rongorongo> -- Reverse direction, rotate, and down-to-up direction
+
+                                                                         ."qoolp
+    between us, till one or other shall fall and glut grim Ares with his life's 
+          ƨʇuɐuө٨oⅽ ʎuɐ өp өʁөµʇ ʎɐw ʁou ,өw quɐ ∩oʎ uөөʍʇөp ɓu!quɐʇƨʁөqu∩ ou өp
+    be of one mind, but hate each other through and through. Therefore there can
+     ʁө٨өu uɐⅽ ƨpwɐl quɐ ƨө٨loʍ ,uөw quɐ ƨuo!l uөөʍʇөp ƨʇuɐuө٨oⅽ ou өp uɐⅽ өʁөµ⊥
+    Achilles glared at him and answered, "Fool, prate not to me about covenants.
 
 
 NOTE: This module uses unicode characters that approximately look like their rotated or mirror-image equivalents (like L<Text::UpsideDown>) so the output values can contain "wide" characters.
