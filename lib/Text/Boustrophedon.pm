@@ -113,9 +113,9 @@ Boustrophedon is a style of writing where whenever you hit the margin and a line
 
 This was done in several ancient writing systems such as ancient greek. If you think about it, it requires less eye movement than our modern systems so maybe they were onto something. :)
 
-B<greek> -- Reverse direction and mirror-image
-
 The different methods currently supported are:
+
+B<greek> -- Reverse direction and mirror-image
 
     Achilles glared at him and answered, "Fool, prate not to me about covenants.
      ɿɘvɘn nɒɔ ƨdmɒl bnɒ ƨɘvlow ,nɘm bnɒ ƨnoil nɘɘwƚɘd ƨƚnɒnɘvoɔ on ɘd nɒɔ ɘɿɘʜT
